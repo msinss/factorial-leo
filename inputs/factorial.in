@@ -1,0 +1,6 @@
+// The program input for factorial/src/main.leo
+[main]
+number: u128 = 5;
+
+[registers]
+r0: u128 = 0;
